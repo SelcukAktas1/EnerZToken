@@ -14,5 +14,10 @@
   "license": "ISC",
   "devDependencies": {
     "openzeppelin-solidity": "^2.1.2"
+  },
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "ganache-cli": "^6.3.0",
+    "truffle-hdwallet-provider": "^1.0.3"
   }
 }
